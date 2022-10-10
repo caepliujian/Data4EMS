@@ -1,0 +1,9 @@
+FILENAME,SMILES
+./ske_56_17_1.mol,O=[N+]([O-])c1nc2cnnnn2n1
+./ske_56_17_2.mol,O=[N+]([O-])c1nnnn2ncnc12
+./ske_56_17_3.mol,Nc1nc2cnnnn2n1
+./ske_56_17_4.mol,Nc1nnnn2ncnc12
+./ske_56_17_5.mol,O=[N+]([O-])c1nc2c([N+](=O)[O-])nnnn2n1
+./ske_56_17_6.mol,Nc1nnnn2nc([N+](=O)[O-])nc12
+./ske_56_17_7.mol,Nc1nc2c([N+](=O)[O-])nnnn2n1
+./ske_56_17_8.mol,Nc1nc2c(N)nnnn2n1
